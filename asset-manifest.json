@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Actividad3Cliente/static/css/main.5ed39a62.css",
+    "main.js": "/Actividad3Cliente/static/js/main.e403e961.js",
+    "index.html": "/Actividad3Cliente/index.html",
+    "main.5ed39a62.css.map": "/Actividad3Cliente/static/css/main.5ed39a62.css.map",
+    "main.e403e961.js.map": "/Actividad3Cliente/static/js/main.e403e961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ed39a62.css",
+    "static/js/main.e403e961.js"
+  ]
+}
