@@ -1,4 +1,4 @@
-const baseUrl = "https://actividad3server.herokuapp.com/";
+const baseUrl = "https://actividad3server.herokuapp.com";
 
 export const fetchApi = (endpoint, data, method = "GET") => {
   const url = `${baseUrl}/${endpoint}`;
